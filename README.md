@@ -57,8 +57,13 @@ The final, tuned XGBoost model was interpreted using its feature importance plot
 # Technologies Used
 
 Python
+
 Pandas & NumPy for data manipulation
+
 Matplotlib & Seaborn for data visualization
+
 Scikit-learn for preprocessing, modeling, and evaluation
+
 XGBoost for the final champion model
+
 SHAP for advanced model interpretation
