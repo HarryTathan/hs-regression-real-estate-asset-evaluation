@@ -1,4 +1,4 @@
-# Advanced House Price Prediction: A Regression Project with the Ames Dataset
+# Advanced House Price Prediction
 # Project Overview
 This project presents a complete, end-to-end machine learning workflow to solve a complex regression problem: predicting house sale prices in Ames, Iowa. The goal was not just to build an accurate model, but to demonstrate a robust, professional, and reproducible data science process.
 
